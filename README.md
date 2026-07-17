@@ -43,7 +43,7 @@ A text-based tool that enables users to build a stock portfolio by simply enteri
 ## How to use:
 1. Run the script in your terminal:
 
-`python hangman_game.py`
+`python stock_portfolio_tracker.py`
 
 2. Enter a stock symbol (e.g. "AAPL", "TSLA", "GOOGL", "MSFT", "NVDA") or type ‘done’ to finish
 3. Enter the quantity you want for the chosen stock
