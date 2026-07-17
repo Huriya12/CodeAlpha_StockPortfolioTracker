@@ -1,5 +1,5 @@
 # CodeAlpha_StockPortfolioTracker
-A simple command-line stock portfolio tracker built in Python as part of the CodeAlpha Programming Internship
+A simple command-line stock portfolio tracker built in Python as part of the CodeAlpha Python Programming Internship
 
 ## Description
 A text-based tool that enables users to build a stock portfolio by simply entering stock symbols and quantities. Prices are retrieved from a hard-coded dictionary containing each stock symbol and price. The program also calculates the total value of each purchase along with a running grand total. At the end, the full portfolio summary is neatly organized into a table, with the option to save it to a file.
