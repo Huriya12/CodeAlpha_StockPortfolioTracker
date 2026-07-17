@@ -17,7 +17,7 @@ A text-based tool that enables users to build a stock portfolio by simply enteri
 - Pandas library
 - While Loops
 - Try-except error handling
-- If-elif-else conditional statements
+- If conditional statements
 - Dictionaries
 - Lists
 - Functions
